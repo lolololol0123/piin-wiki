@@ -4,9 +4,5 @@
 
 点击视频右上角的“…”，弹出的“download”选项可以将视频下载到本地；
 
-<video controls width="640" height="480">
-  <source src="https://raw.githubusercontent.com/piin-wiki/piin-wiki/main/Piin-cross-chain.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<iframe src="https://piin-wiki.github.io/piin-wiki/Piin-cross-chain.html" width="100%" height="720" frameborder="0" allowfullscreen></iframe>
 
